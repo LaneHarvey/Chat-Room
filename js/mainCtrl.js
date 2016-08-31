@@ -10,7 +10,7 @@ $scope.postMessage = function(){};
   //The postMessage function will take whatever the user typed in (hint: look at the html and see what ng-model correlates to on the input box),
   //pass that text to the postMessage method on the messageService object which will then post it to the backend.
 
-
+promise.then(function(results){})
 
 
   //uncomment this code when your getMessages function is finished
